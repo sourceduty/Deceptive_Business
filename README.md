@@ -40,7 +40,7 @@ In the cinematic world, actors often engage in deceptive practices as part of th
 
 ***
 
-### Politcal Actors
+### Political Actors
 
 In the intricate tapestry of American politics, the crossover of movie actors into governmental roles has occasionally led to instances where the lines between performance and political reality become blurred. Actors, adept at crafting compelling narratives and personas on screen, can sometimes apply similar techniques to shape public perception and political rhetoric. Leveraging their celebrity status and public appeal, these individuals can effectively employ theatrical tactics to convey messages, influence public opinion, or navigate the complex landscape of political discourse. This melding of entertainment and governance raises questions about authenticity and the genuine representation of political ideologies and intentions.
 
