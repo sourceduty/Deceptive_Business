@@ -38,4 +38,4 @@ In the digital realm, the ease with which individuals can curate and present the
 
 In the cinematic world, actors often engage in deceptive practices as part of their craft, adopting personas and characteristics far removed from their true selves to embody a character. This transformation can sometimes blur the lines between reality and fiction for both the actor and their audience. For promotional purposes, actors might continue to project elements of their on-screen persona in public appearances and interviews, cultivating a specific image that resonates with their roles. This deliberate blurring of their real and cinematic identities can be a strategic move to deepen audience engagement with a character or a film. Additionally, actors may adopt misleading narratives about their personal experiences or background in order to align more closely with the characters they portray, enhancing their authenticity in the eyes of viewers and critics. This practice, while deceptive, is often accepted and even celebrated as part of the magic of storytelling in the film industry, contributing to the mystique and allure of movie-making.
 
-**
+***
