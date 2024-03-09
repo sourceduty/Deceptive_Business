@@ -1,3 +1,4 @@
+![Business](https://github.com/sourceduty/Deceptive_Business/assets/123030236/5164b75d-c96b-47b4-a7f8-2231ee69e021)
 
 Deceptive business practices encompass a range of unethical activities that businesses might engage in to mislead consumers, investors, or others to gain an unfair advantage or profit. These practices can vary widely in their nature and scope but generally involve some form of dishonesty or misrepresentation.
 
