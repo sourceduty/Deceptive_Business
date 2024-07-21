@@ -1,4 +1,4 @@
-![Business](https://github.com/sourceduty/Deceptive_Business/assets/123030236/5164b75d-c96b-47b4-a7f8-2231ee69e021)
+![Deception](https://github.com/user-attachments/assets/9e037893-b92c-40c0-bb76-42aa79d378df)
 
 #
 
