@@ -45,7 +45,7 @@ In the intricate tapestry of American politics, the crossover of movie actors in
 Moreover, the inherent charisma and public speaking prowess that actors bring to the political arena can sometimes mask a lack of depth in policy understanding or experience in governance. The persuasive power of a well-delivered speech or a charismatic public appearance can overshadow critical scrutiny of a candidate's qualifications or policy proposals. This conflation of celebrity appeal with political aptitude highlights a deceptive practice where the art of performance is used to compensate for, or distract from, the realities of political competency and substantive governance.
 
 #
-### Facebook Deception
+### Facebook Deception and Dishonesty
 
 ![Facebook Anonymous](https://github.com/user-attachments/assets/aaeab425-ce65-4305-ae2f-dc0a0c479c09)
 
