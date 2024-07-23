@@ -1,4 +1,4 @@
-![Deception](https://github.com/user-attachments/assets/9e037893-b92c-40c0-bb76-42aa79d378df)
+![SOURCEDUTY SLAMS FAKE BUSINESS!](https://github.com/user-attachments/assets/a8028192-17cf-496e-b002-7e4f1575267f)
 
 #
 
