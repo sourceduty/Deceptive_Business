@@ -76,6 +76,8 @@ Addressing the issue of fake public figure death announcements requires a multif
 #
 ### Fake Live Ads
 
+![Facebook Ads](https://github.com/user-attachments/assets/9cef0822-a0ae-4610-83e1-fbd70d92afbc)
+
 Fake live ads on Facebook and other platforms have become a significant concern due to their deceptive nature, which often misleads consumers. These ads typically appear as live video streams, lending them a semblance of authenticity and urgency. This can manipulate viewers into making hasty purchasing decisions or engaging with the content under false pretenses. Common types of these fraudulent ads include product scams, investment scams, phishing attempts, and clickbait designed to generate revenue through high click-through rates.
 
 Various laws and regulations aim to protect consumers from such deceptive advertising practices. In the United States, the Federal Trade Commission (FTC) Act prohibits unfair or deceptive acts in commerce, and the Lanham Act addresses false advertising and trademark infringement. Additionally, many states have their own consumer protection laws. In the European Union, the Unfair Commercial Practices Directive protects consumers against misleading and aggressive marketing, while the General Data Protection Regulation (GDPR) safeguards personal data, which is relevant in cases where fake ads are used for phishing.
