@@ -105,6 +105,8 @@ However, this deceptive approach can backfire if consumers catch on to the manip
 [Google](https://github.com/sourceduty/Google)
 <br>
 [Coercion](https://github.com/sourceduty/Coercion)
+<br>
+[Accents](https://github.com/sourceduty/Accent_Simulator)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
