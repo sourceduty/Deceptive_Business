@@ -103,6 +103,8 @@ However, this deceptive approach can backfire if consumers catch on to the manip
 [Facebook](https://github.com/sourceduty/Facebook)
 <br>
 [Google](https://github.com/sourceduty/Google)
+<br>
+[Coercion](https://github.com/sourceduty/Coercion)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
