@@ -120,6 +120,8 @@ Facebook has implemented measures to combat fake ads, including an ad review pro
 #
 ### Negative Endorsement
 
+![The Bizzle](https://github.com/user-attachments/assets/97348102-6462-49aa-b20e-20ba2192856c)
+
 Some deceptive businesses engage in a strategy known as "negative endorsement" or "reverse psychology marketing," where they hire individuals to criticize their products or services publicly. The idea behind this tactic is to create a buzz and stir curiosity among potential customers, who may be drawn in by the controversy or intrigued by the negative attention. By positioning themselves as a target of criticism, these businesses aim to tap into the psychology of consumers who might assume that the product is not as bad as it seems, or even believe that the negative reviews are a sign of authenticity in a world saturated with overly positive endorsements.
 
 This strategy is often employed in industries where consumer perception is highly subjective, such as fashion, entertainment, or technology. For instance, a fashion brand might hire influencers to post deliberately unflattering reviews, suggesting that their products are "too edgy" or "not for everyone," which can paradoxically make the product more appealing to a niche market that prides itself on being different or exclusive. Similarly, in the entertainment industry, a controversial film or artist might generate attention by being labeled as "too controversial" or "offensive," which can attract an audience eager to form their own opinion or see what the fuss is about.
