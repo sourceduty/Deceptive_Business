@@ -151,6 +151,8 @@ However, this deceptive approach can backfire if consumers catch on to the manip
 [Accents](https://github.com/sourceduty/Accent_Simulator)
 <br>
 [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
+<br>
+[News](https://github.com/sourceduty/News)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
