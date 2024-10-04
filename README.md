@@ -153,6 +153,8 @@ However, this deceptive approach can backfire if consumers catch on to the manip
 [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
 <br>
 [News](https://github.com/sourceduty/News)
+<br>
+[YouTube](https://github.com/sourceduty/YouTube)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
