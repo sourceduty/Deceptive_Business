@@ -1,5 +1,3 @@
-![Gmail - Shitbags](https://github.com/user-attachments/assets/c58bf9c1-ecab-419d-95a9-cfc9033e6eb1)
-
 ![Deception](https://github.com/user-attachments/assets/d19fef18-3dca-4f40-894d-0e8de3dee868)
 
 #
@@ -78,6 +76,11 @@ The recent decision by OpenAI to remove detailed analytics for custom GPTs can b
 From a business standpoint, this move appears to prioritize a simplified user experience at the expense of transparency and the needs of more advanced, data-driven users. OpenAI’s decision to strip away valuable analytical tools without clearly communicating the implications beforehand could be viewed as deceptive, potentially leading creators to believe that the platform would continue to support their projects with robust analytics. Instead, this decision forces a one-size-fits-all approach that fails to meet the expectations of those seeking a deeper understanding of their models’ performance. By prioritizing convenience over transparency and insight, OpenAI risks alienating a portion of its community, potentially stifling the innovation and growth that these creators bring to the platform.
 
 OpenAI’s recent business decisions reflect a puzzling trend of removing advanced features that once empowered users, seemingly favoring simplicity over functionality. This shift is odd, especially for a company at the forefront of AI innovation, as it risks alienating the very creators and developers who seek in-depth tools to push the boundaries of what AI can achieve. Moves like the removal of custom GPT analytics follow a similar pattern seen in other updates, where OpenAI has streamlined its offerings at the cost of user control and data transparency. This approach can seem contradictory: as OpenAI positions itself as a leader in cutting-edge technology, it simultaneously limits the capabilities available to its most engaged users. This trend raises questions about whether the company is compromising its commitment to empowering creators in favor of broader market appeal, potentially underestimating the value that robust, data-rich features add to its platform.
+
+#
+### ChatGPT Roasted
+
+In one swift move, they’ve stripped creators of any chance to actually improve their models. Forget about tracking engagement, user interactions, or usage patterns—those relics of a time when transparency and informed decision-making still mattered! OpenAI’s new slogan must be “Less is More,” because why on earth would advanced, data-driven users want access to the very insights that helped them make smart choices? Who needs informed improvements when you can just throw darts in the dark and hope for the best? Apparently, OpenAI thinks everyone would be happier with a one-size-fits-all, watered-down experience. Why cater to power users when you can make everyone blissfully clueless together? It’s democratization through dumbing down, a masterclass in sacrificing functionality for some misguided notion of simplicity. But this isn’t simplicity; it’s just opacity. It’s almost like OpenAI is on a mission to see how much they can strip away before creators start fleeing for saner pastures. Empowerment? More like enforced helplessness! Cheers to OpenAI for turning their platform into a delightfully data-free experience, where creators are left to guess what’s happening and dream about what might have been!
 
 #
 ### Criminal Gang Deception
