@@ -28,7 +28,7 @@ In all these cases, the intent is to deceive consumers into making choices based
 #
 ### Fake Lettermail
 
-![SpaceX Mail](https://github.com/user-attachments/assets/b36f7ebd-d37f-4e2e-b948-f812707d9dc4)
+![Mail](https://github.com/user-attachments/assets/3c21aaaf-c06b-4447-a23a-8a5d1dba34e9)
 
 Using friends or family members’ addresses and names as mailing addresses or office locations in business can be deceptive, particularly when it is done to mask the true identity or location of a business. When businesses misrepresent their actual location or owners, they may appear more trustworthy, local, or established to customers. This tactic can mislead clients who believe they are working with a company nearby or who assume the business operates out of a formal office rather than a personal residence. Such misrepresentation can be problematic if it results in compromised accountability, difficulty in reaching the company, or unfulfilled service promises due to lack of transparency.
 
